@@ -9,3 +9,4 @@ alert(3+
 alert('HELLO');
 [1,2].forEach(alert) //muestra Hello, luego 1, luego 2.
 
+// atajo para comentarios: CTRL + /
